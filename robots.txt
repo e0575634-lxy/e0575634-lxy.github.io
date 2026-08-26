@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://e0575634-lxy.github.io/sitemap.xml
